@@ -61,7 +61,7 @@ transport.exe
 Transport-Management-System/
 │
 ├── src/
-│   ├── TransportManagmentSystem.cpp
+│   ├── TransportManagementSystem.cpp
 │   └── admin.txt
 │
 ├── README.md
