@@ -28,7 +28,7 @@ Cyber Security Student (4th Semester)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/transport-management-system.git
+   git clone https://github.com/Amin-CyberWarrior/Transport-Management-System.git
    ```
 
 2. Open the project in Visual Studio Code.
